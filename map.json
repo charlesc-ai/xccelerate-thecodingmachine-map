@@ -37,7 +37,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"forum"
+                 "value":"xcforum"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -60,7 +60,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"canap1"
+                 "value":"xccanap1"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -83,7 +83,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"table"
+                 "value":"xctable"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -111,7 +111,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"canap2"
+                 "value":"xccanap2"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
